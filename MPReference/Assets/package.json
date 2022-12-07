@@ -1,10 +1,10 @@
 {
-	"name": "com.github.nagaohiroki.MPReference",
-	"displayName": "MPReference",
-	"version": "1.0.0",
-	"description": "MPReference",
-	"unity": "2019.1",
-	"dependencies": {
-		"com.cysharp.memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack"
-	}
+    "name": "com.github.nagaohiroki.MPReference",
+    "displayName": "MPReference",
+    "version": "1.0.0",
+    "description": "MPReference",
+    "unity": "2019.1",
+    "dependencies": {
+        "com.cysharp.memorypack": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/Plugins/MemoryPack"
+    }
 }
